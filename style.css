@@ -15,3 +15,8 @@
 .project p{min-height:58px;margin-top:0;font-size:12px;line-height:1.45}
 .project small{color:#926a31;font-weight:700}
 @media(max-width:700px){.projects .section-title{display:block}.project .visual{height:155px}}
+
+/* Project preview imagery */
+.project .visual{background-size:cover!important;background-position:center!important}
+.project .visual:before,.project .visual:after,.project .visual span{display:none!important}
+.client-preview{display:block;width:100%;max-width:740px;height:auto;border-radius:14px;box-shadow:0 18px 45px #0007}
