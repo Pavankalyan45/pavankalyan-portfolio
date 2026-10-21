@@ -1,3 +1,3 @@
 # Pavankalyan Kusha Portfolio
 
-Personal portfolio website and project overviews. KA Scooters is presented only as a client project; private client source code and CV documents are excluded.
+Personal portfolio and project overview pages. KA Scooters is client work; private client source and CV files are excluded.
